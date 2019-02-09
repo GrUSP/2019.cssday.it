@@ -44,6 +44,12 @@
 
 -
   speaker_id: Matteo-Guidotto
-  title: Take take of your pixel
+  title: Take care of your pixel
   extract: >
     "inseguiamo framework, aggiornamenti, poche righe di codice per fare grandi cose per l'umanità, dimenticandoci dell'umanità, dei disturbi visivi, delle differenti connessioni in giro per il mondo, di come le persone interagiscono con le nostre interfacce, è tempo di ricordarcelo"
+
+-
+  speaker_id: nicola-dellamarina
+  title: Il workflow ai tempi del design system
+  extract: >
+    "L'introduzione del design system all'interno di progetti di grandi dimensioni ha come conseguenza anche un nuovo approccio al flusso e ad un nuovo modo di interagire tra team diversi. In questo talk verrà presentato un esempio di workflow che integra questi nuovi pattern."

@@ -49,7 +49,7 @@ list:
  -
    id: Andrea-Gadaldi
    description:
-   image: andrea-gadaldi.jpg
+   image: gadaldi-andrea.png
    first_name: Andrea
    last_name: Gadaldi
    twitter: mrbeastcorp
@@ -60,6 +60,13 @@ list:
    first_name: Matteo
    last_name: Guidotto
    twitter: j8matteo
+ -
+   id: nicola-dellamarina
+   description:
+   image: nicola-dellamarina.jpg
+   first_name: Nicola
+   last_name: Della Marina
+   twitter: nicoladm79
  # -
  #   id:
  #   description:
