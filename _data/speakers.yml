@@ -4,80 +4,73 @@ call_for_paper_url: https://goo.gl/forms/c9FuRiQNmyw84pXm1
 call_for_paper: false
 show_speakers: true
 list:
-  -
-    id: Marco-Cedaro
-    description:
-    image: marco-cedaro.jpg
-    first_name: Marco
-    last_name: 	Cedaro
-    twitter: cedmax
-  -
-    id: Giulia-Laco
-    description:
-    image: giulia-laco.jpg
-    first_name: Giulia
-    last_name: 	Laco
-    twitter: webmatter_it
-  -
-    id: Antonio-Dell-Ava
-    description:
-    image: antonio-dell-ava.jpg
-    first_name: Antonio
-    last_name: 	Dell'Ava
-    twitter:
-  -
-    id: Massimo-Artizzu
-    description:
-    image: massimo-artizzu.jpg
-    first_name: Massimo
-    last_name: 	Artizzu
-    twitter: MaxArt2501
-  -
-    id: Andrea-Decarolis
-    description:
-    image: andrea-decarolis.jpg
-    first_name: Andrea
-    last_name: 	De Carolis
-    twitter: decarola
-  -
-    id: Carmine-Alfano
-    description:
-    image: carmine-alfano.jpg
-    first_name: Carmine
-    last_name: Alfano
-    twitter: razzullo
-  -
-    id: Andrea-Gadaldi
-    description:
-    image: gadaldi-andrea.png
-    first_name: Andrea
-    last_name: Gadaldi
-    twitter: mrbeastcorp
-  -
-    id: Matteo-Guidotto
-    description:
-    image: matteo-guidotto.jpg
-    first_name: Matteo
-    last_name: Guidotto
-    twitter: j8matteo
-  -
-    id: Davide-Dipumpo
-    description:
-    image: davide-dipumpo.jpg
-    first_name: Davide
-    last_name: Di Pumpo
-    twitter: MakhBeth
-  -
-    id: Giacomo-Zinetti
-    description:
-    image: giacomo-zinetti.jpg
-    first_name: Giacomo
-    last_name: Zinetti
-    twitter: gcmznt
-  -
-    id: Nicola-Dellamarina
-    description:
-    image: nicola-dellamarina.jpg
-    first_name: Nicola
-    last_name:     Della Marina
-    twitter: nicoladm79
+ -
+   id: Marco-Cedaro
+   description:
+   image: marco-cedaro.jpg
+   first_name: Marco
+   last_name: 	Cedaro
+   twitter: cedmax
+ -
+   id: Giulia-Laco
+   description:
+   image: giulia-laco.jpg
+   first_name: Giulia
+   last_name: 	Laco
+   twitter: webmatter_it
+ -
+   id: Antonio-Dell-Ava
+   description:
+   image: antonio-dell-ava.jpg
+   first_name: Antonio
+   last_name: 	Dell'Ava
+   twitter:
+ -
+   id: Massimo-Artizzu
+   description:
+   image: massimo-artizzu.jpg
+   first_name: Massimo
+   last_name: 	Artizzu
+   twitter: MaxArt2501
+ -
+   id: Andrea-Decarolis
+   description:
+   image: andrea-decarolis.jpg
+   first_name: Andrea
+   last_name: 	De Carolis
+   twitter: decarola
+ -
+   id: Carmine-Alfano
+   description:
+   image: carmine-alfano.jpg
+   first_name: Carmine
+   last_name: Alfano
+   twitter: razzullo
+ -
+   id: Andrea-Gadaldi
+   description:
+   image: gadaldi-andrea.png
+   first_name: Andrea
+   last_name: Gadaldi
+   twitter: mrbeastcorp
+ -
+   id: Matteo-Guidotto
+   description:
+   image: matteo-guidotto.jpg
+   first_name: Matteo
+   last_name: Guidotto
+   twitter: j8matteo
+ -
+   id: nicola-dellamarina
+   description:
+   image: nicola-dellamarina.jpg
+   first_name: Nicola
+   last_name: Della Marina
+   twitter: nicoladm79
+ -
+   id: giacomo-zinetti
+   description:
+   image: giacomo-zinetti.jpg
+   first_name: Giacono
+   last_name: Zinetti
+   twitter: gcmznt
