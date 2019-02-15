@@ -74,3 +74,10 @@ list:
     first_name: Giacomo
     last_name: Zinetti
     twitter: gcmznt
+  -
+    id: Nicola-Dellamarina
+    description:
+    image: nicola-dellamarina.jpg
+    first_name: Nicola
+    last_name:     Della Marina
+    twitter: nicoladm79
