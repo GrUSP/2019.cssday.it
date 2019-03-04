@@ -15,7 +15,8 @@
   title: "Un Approccio Frameworkless per Sviluppare la tua Single Page Application"
   keynote: false
   extract: >
-      I Design System uniscono i team attorno ad un linguaggio visivo e funzionale comune. Il talk introdurrà come svilupparli in team e applicarli nei tuoi progetti, con un approccio <i>frameworkless</i>.
+      Il talk racconta l'esperienza del <i>frameworkless movement</i> dal punto di vista dello sviluppatore UI partendo dalle basi: cosa sono i framework e perché li utilizziamo? Quali insidie nascondono?
+      Saranno illustrati gli strumenti utili a scegliere consapevolmente il miglior framework per il nostro contesto, come ad esempio i <i>Design System</i>, valutando anche l'opzione "no-framework".
 -
   speaker_id: Massimo-Artizzu
   title: "I trucchi di Houdini: la magia nel futuro del CSS"
