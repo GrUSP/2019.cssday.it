@@ -59,10 +59,13 @@ gold:
   max: 8
   list:
     -
-      url: http://www.jsday.it
+      url: https://www.workwave.com
+      image: workwave.svg
+    -
+      url: https://www.jsday.it
       image: jsday.svg
     -
-      url: http://www.kerning.it
+      url: https://www.kerning.it
       image: kerning.svg
 
 silver:
